@@ -17,7 +17,7 @@ global.location = "Kenya, Nairobi, Nairobi" //ur location
 
 //new
 global.botname = 'Maldives.M' //ur bot name
-global.ownernumber = '254758732775' //ur owner number
+global.ownernumber = '62882005279196' //ur owner number
 global.ownername = 'MAK J' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaWrCuH35fLuVP2iCc2R"
 global.themeemoji = '😈'
@@ -27,7 +27,7 @@ global.packname = "Sticker By"
 global.author = "MAKJ\n\n+254758732775"
 global.creator = "254758732775@s.whatsapp.net"
 global.xprefix = '*',' '
-global.premium = ["254758732775"] // Premium User
+global.premium = ["62882005279196"] // Premium User
 global.hituet = 0
 
 //bot sett
